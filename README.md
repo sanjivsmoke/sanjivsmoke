@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<h4 align="center">I navigate coding constellations—Next.js, TypeScript, React.js, JavaScript, Node.js, Express.js, PostgreSQL, HTML, CSS, and the art of Tailwind CSS. Crafting celestial experiences into the web's fabric, guided by Kaguya Otsutsuki's ethereal wisdom on this cosmic path.</h4>
+<h3 align="center">I navigate coding constellations—Next.js, TypeScript, React.js, JavaScript, Node.js, Express.js, PostgreSQL, HTML, CSS, and the art of Tailwind CSS. Crafting celestial experiences into the web's fabric, guided by Kaguya Otsutsuki's ethereal wisdom on this cosmic path.</h3>
 
 ###
 
