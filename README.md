@@ -1,29 +1,28 @@
 <div align="center">
-  <img height="100" src="https://media.tenor.com/4wNp5P36n3EAAAAd/sanji-sanji-one-piece.gif"  />
+  <img  width="60%" src="https://media.tenor.com/4wNp5P36n3EAAAAd/sanji-sanji-one-piece.gif"  />
 </div>
 
 ###
 
-<h1 align="center">Greetings, cosmic traveler! 🚀</h1>
+<h1 align="center">Greetings, pirates 🏴‍☠️</h1>
 
 ###
 
-<h3 align="center">"From the vibrant web of Chennai to the limitless void, I am<br> P.C. Nirmal Kumar – your stellar Full-stack navigator aboard the code-powered spacecraft."</h3>
+<h3 align="center">"From the smoky galley of East Blue to the Grand Line of code, I am P.C. Nirmal Kumar – the culinary full-stack swordsman sautéing logic and flair aboard the Going Code Sunny."</h3>
 
 ###
 
 <br clear="both">
 
-<h3 align="center">I navigate coding constellations—Next.js, TypeScript, React.js, JavaScript, Node.js, Express.js, PostgreSQL, HTML, CSS, and the art of Tailwind CSS. Crafting celestial experiences into the web's fabric, guided by Kaguya Otsutsuki's ethereal wisdom on this cosmic path.</h3>
+<h3 align="center">I stir the seas of JavaScript, sear APIs with Node.js and Express, and roast data in PostgreSQL. From the finesse of Next.js to the kick of Vue.js, I craft web experiences with Sanji’s precision and fire. Not chasing All Blue, but backend harmony—coding like a Straw Hat with a chef’s soul.</h3>
 
 ###
 
-<h2 align="center">Creating code within the cosmic void of</h2>
+<h2 align="center">Sanji's curry ingredients </h2>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -35,21 +34,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+ 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://fastpng.com/images/file/aws-logo-ae92fbdp5ucmps3y.png" height="40" alt="aws logo"  />
+ 
 </div>
 
 ###
@@ -61,8 +54,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" href="https://www.linkedin.com/in/nirmal-kumar-433536149/" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" href="https://www.instagram.com/pz_nirmalkumar/" width="52" height="40" alt="instagram logo"  />
 </div>
 
